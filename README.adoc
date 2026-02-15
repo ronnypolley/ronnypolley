@@ -2,6 +2,29 @@
 
 image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt="@ronnypolley's Holopin board"]
 
+=== Technical Skills 🛠️
+
+* **Programming Languages**: Java, Python, JavaScript, TypeScript, SQL
+* **Testing**: JUnit, Mockito, Selenium, Spock, Pester
+* **Architectural Styles**: Microservices, RESTful APIs, SOAP, Event-Driven Architecture
+* **Frameworks & Libraries**: Spring Boot, Quarkus
+* **Build Tools**: Maven, Gradle, npm
+* **DevOps Tools**: Docker, Kubernetes, Jenkins, GitLab CI/CD
+* **Cloud Services**: Azure Kubernetes Service (AKS)
+* **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+* **Cloud Platforms**: Azure
+* **Databases**: MySQL, PostgreSQL
+* **Version Control**: Git, SVN, CVS
+* **Other Tools**: Eclipse, IntelliJ IDEA, JIRA, Confluence, (Neo)Vim
+* **Security**: DevSecOps practices, secure coding, vulnerability assessment
+* **Project Management**: Agile methodologies, Scrum
+* **Soft Skills**: Leadership, communication, problem-solving, teamwork
+* **Languages**: English (fluent), German (native)
+* **Certifications**: Certified Scrum Product Owner (CSPO)
+* **Interests**: Software architecture, cloud computing, automotive software solutions, DevSecOps
+
+
+
 === My Experiences 🙌
 
 [cols="1,2,3", options="header"]
