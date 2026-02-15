@@ -1,0 +1,36 @@
+=== Hi there 👋
+
+image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt="@ronnypolley's Holopin board"]
+
+=== My Experiences 🙌
+
+* *Project Lead* for link:https://itsonix.eu/[@IT Sonix custom development GmbH] (since 2025-06)
+** Leading a team of 10+ developers in delivering custom software solutions for a world leading commercial vehicle manufacturer.
+* *Senior Software Engineer and Product Owner* at link:https://www.itsonix.eu/[@IT Sonix custom development GmbH] (since 2014-06)
+** Software development and product ownership for custom software solutions in the automotive industry.
+*** Old Eclipse RCP application for vehicle configuration and order management
+*** Services and microservices for vehicle configuration and order management
+*** API development for vehicle configuration and order management
+** DevSecOps and security engineering for custom software solutions in the automotive industry.
+* *Team Lead product management* for link:https://itsonix.eu/[@IT Sonix custom development GmbH] DevSecOps Project
+** Leading a team of 4 product owners in varying customer and industry segments to deliver a comprehensive DevSecOps product suite.
+* *Senior Software Engineer* at link:https://itsonix.eu/[@IT Sonix custom development GmbH] (2012-06 to 2014-05)
+** Software development for custom software solutions in the automotive industry.
+* *Software Engineer* at link:https://itsonix.eu/[@IT Sonix custom development GmbH] (2011-10 to 2012-05)
+** Software development for custom software solutions in the automotive industry.
+* *Software Engineer* at link:https://www.heise.de/news/Software-AG-uebernimmt-restliche-Anteile-von-itCampus-1012299.html[@itcampus] (2010-04 to 2011-09)
+** Software development for custom software solutions in the automotive industry.
+
+////
+**ronnypolley/ronnypolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+////
+
