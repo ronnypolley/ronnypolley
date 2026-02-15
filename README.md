@@ -2,13 +2,29 @@
 
 [![@ronnypolley's Holopin board](https://holopin.me/ronnypolley)](https://holopin.io/@ronnypolley)
 
+### My Experiences 🙌
+
+- **Project Lead** for [@IT Sonix custom development GmbH](https://itsonix.eu/) (since 2025-06)
+    - Leading a team of 10+ developers in delivering custom software solutions for a world leading commercial vehicle manufacturer.
+- **Senior Software Engineer and Product Owner** at [@IT Sonix custom development GmbH](https://www.itsonix.eu/) (since 2014-06)
+    - Software development and product ownership for custom software solutions in the automotive industry.
+      - Old Eclipse RCP application for vehicle configuration and order management
+      - Services and microservices for vehicle configuration and order management
+      - API development for vehicle configuration and order management
+    - DevSecOps and security engineering for custom software solutions in the automotive industry.
+- **Team Lead product management** for [@IT Sonix custom development GmbH](https://itsonix.eu/) DevSecOps Project
+  - Leading a team of 4 product owners in varying customer and industry segments to deliver a comprehensive DevSecOps product suite.
+- **Senior Software Engineer** at [@IT Sonix custom development GmbH](https://itsonix.eu/) (2012-06 to 2014-05)
+    - Software development for custom software solutions in the automotive industry.
+- **Software Engineer** at [@IT Sonix custom development GmbH](https://itsonix.eu/) (2011-10 to 2012-05)
+    - Software development for custom software solutions in the automotive industry.
+- **Software Engineer** at [@itcampus](https://www.heise.de/news/Software-AG-uebernimmt-restliche-Anteile-von-itCampus-1012299.html) (2010-04 to 2011-09)
+    - Software development for custom software solutions in the automotive industry.
 <!--
 **ronnypolley/ronnypolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
