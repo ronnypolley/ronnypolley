@@ -3,7 +3,9 @@
 image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt="@ronnypolley's Holopin board"]
 
 === Technical Skills 🛠️
-
+[%collapsible]
+.Click for more details
+====
 * **Programming Languages**: Java, Python, JavaScript, TypeScript, SQL
 * **Testing**: JUnit, Mockito, Selenium, Spock, Pester
 * **Architectural Styles**: Microservices, RESTful APIs, SOAP, Event-Driven Architecture
@@ -22,7 +24,7 @@ image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt=
 * **Languages**: English (fluent), German (native)
 * **Certifications**: Certified Scrum Product Owner (CSPO)
 * **Interests**: Software architecture, cloud computing, automotive software solutions, DevSecOps
-
+====
 
 
 === My Experiences 🙌
@@ -77,7 +79,7 @@ a|link:https://www.heise.de/news/Software-AG-uebernimmt-restliche-Anteile-von-it
 |===
 
 ////
-**ronnypolley/ronnypolley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ronnypolley/ronnypolley** is a ✨ _special_ ✨ repository because its `README.adoc` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
