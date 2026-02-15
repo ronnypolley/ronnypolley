@@ -26,6 +26,10 @@ image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt=
 * **Interests**: Software architecture, cloud computing, automotive software solutions, DevSecOps
 ====
 
+=== Jokes 😂
+
+[.text-center]
+image:https://readme-jokes.vercel.app/api?hideBorder[]
 
 === My Experiences 🙌
 
