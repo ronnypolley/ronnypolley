@@ -26,6 +26,11 @@ image:https://holopin.me/ronnypolley[link="https://holopin.io/@ronnypolley",alt=
 * **Interests**: Software architecture, cloud computing, automotive software solutions, DevSecOps
 ====
 
+=== Stack Overflow 🧑‍💻
+
+[.text-center]
+image:https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=7554785[]
+
 === Jokes 😂
 
 [.text-center]
